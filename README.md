@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a website for akbar classes and some other projects with html, css and javascript.<br>🤝 I’m looking for help with starting my whole career as a programmer<br>🌱 I’m currently learning html, css, javascript, java, c++, python etc<br>⚡ Fun fact, I'm just 15 and I realised I was better at coding when I was around 12.
+🔭 I’m currently working on a few websites along with some software for windows.<br>🤝 I’m looking forward to contributing to the dev community<br>🌱 I’m currently learning react, html, css, javascript, java, typescript, c++, python etc<br>⚡ Fun fact, I'm 16 and I realised I was better at coding when I was around 11.
 
 
 ## 🌐 Socials:
